@@ -18,7 +18,6 @@ Each node (user) is represented with a feature vector composed of:
 |------------------------|-----------------------------------------------------------------------------|
 | `degree`              | Number of direct neighbors (friends)                                        |
 | `activity_frequency`  | Frequency of user interactions or simulated activity level                  |
-| *(Optional)* `influence_score` | Fraction of neighbors who have adopted (can be used in advanced models)    |
 
 These features reflect a user's position and behavior within the network.
 
