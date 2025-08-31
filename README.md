@@ -1,4 +1,4 @@
-# Predict-Adoption-via-GNN-on-Facebook-Data
+# AdoptGraph: Social Tech Uptake Forecasting
 This project aims to predict whether a user in a social network will adopt a new technology, based on their network position and behavioral attributes. The task is modeled as a **node classification** problem using **graph neural networks (GNNs)**.
 
 ## Phase 1: Define the Problem
